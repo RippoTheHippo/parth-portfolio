@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Kainchi",
+    "youtubeId": "jH8pdCJBQH0",
+    "category": "Short Film",
+    "year": "2024",
+    "description": "A silver-winning short film shaped around fracture, hesitation, and the weight of a single irreversible decision.",
+    "credits": [
+      "Production: Cinesec IITR",
+      "Director: Details available on request",
+      "Edit: Details available on request"
+    ],
+    "featured": true
+  },
+  {
+    "title": "Anushruti Academy",
+    "youtubeId": "vpOK0r0jlWs",
+    "category": "Experimental",
+    "year": "2024",
+    "description": "A documentary-led portrait observing discipline, artistic growth, and the atmosphere that lives around performance.",
+    "credits": [
+      "Production: Cinesec IITR",
+      "Direction: Details available on request",
+      "Sound: Details available on request"
+    ],
+    "featured": true
+  },
+  {
+    "title": "Aaoge Tum Kabhi",
+    "youtubeId": "IuIG7944SkM",
+    "category": "Music Video",
+    "year": "2025",
+    "description": "An intimate music video driven by low-light emotion, restrained movement, and a quietly romantic visual rhythm.",
+    "credits": [
+      "Production: Cinesec IITR",
+      "Artist: Music Section IIT Roorkee",
+      "Edit: Details available on request"
+    ],
+    "featured": true
+  },
+  {
+    "title": "Kasak",
+    "youtubeId": "ph4vPrZoBrE",
+    "category": "Short Film",
+    "year": "2023",
+    "description": "An online short film centered on distance, longing, and the stillness that lingers after an emotional rupture.",
+    "credits": [
+      "Production: Cinesec IITR",
+      "Director: Details available on request",
+      "Post: Details available on request"
+    ],
+    "featured": true
+  },
+  {
+    "title": "Saanjh",
+    "youtubeId": "70Gpk0TvJkI",
+    "category": "Short Film",
+    "year": "2023",
+    "description": "A gold-winning short framed with dusky textures, measured pacing, and a strong sense of emotional suspense.",
+    "credits": [
+      "Production: Cinesec IITR",
+      "Direction: Details available on request",
+      "Color: Details available on request"
+    ],
+    "featured": true
+  },
+  {
+    "title": "Ishq Hai",
+    "youtubeId": "3XywsJ733E8",
+    "category": "Music Video",
+    "year": "2024",
+    "description": "A youthful performance piece balancing softness, rhythm, and a polished commercial visual language.",
+    "credits": [
+      "Production: Cinesec IITR",
+      "Artist: IIT Roorkee Performers",
+      "Edit: Details available on request"
+    ],
+    "featured": false
+  },
+  {
+    "title": "Pehchaan",
+    "youtubeId": "GvoVxxQgxs8",
+    "category": "Short Film",
+    "year": "2022",
+    "description": "A character-led short film built around identity, vulnerability, and the slow reveal of inner conflict.",
+    "credits": [
+      "Production: Cinesec IITR",
+      "Director: Details available on request",
+      "Post: Details available on request"
+    ],
+    "featured": false
+  },
+  {
+    "title": "DSA Diss Track",
+    "youtubeId": "xsTOqDIvgAM",
+    "category": "Music Video",
+    "year": "2024",
+    "description": "A stylized performance video with sharp tempo, graphic blocking, and an intentionally high-energy frame language.",
+    "credits": [
+      "Production: Cinesec IITR",
+      "Direction: Details available on request",
+      "Edit: Details available on request"
+    ],
+    "featured": false
+  }
+]
